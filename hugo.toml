@@ -1,0 +1,4 @@
+baseURL = 'https://xox-ota.github.io/'
+languageCode = 'zh-cn'
+title = 'XOX-OTA'
+theme = 'maverick'
